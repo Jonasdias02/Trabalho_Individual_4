@@ -1,6 +1,8 @@
 # Trabalho Individual 4 MySQL.
 
-### Para modelar o banco de dados que armazena informações sobre cursos, professores, turmas e alunos, usei quatro tabelas:
+### Para modelar o banco de dados que armazena informações sobre cursos, turmas e alunos. Adicionei professores e usei quatro tabelas:
+### Principais Campos:
+### Entidades relacionadas:
 
 ## Tabela "Cursos"
   Colunas: id_curso (chave primária), nome_curso, carga_horaria
