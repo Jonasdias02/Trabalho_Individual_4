@@ -1,4 +1,4 @@
-# Trabalho_Individual_4
+## Trabalho_Individual_4
 
 Para modelar o banco de dados que armazena informações sobre cursos, professores, turmas e alunos, usei quatro tabelas:
 
